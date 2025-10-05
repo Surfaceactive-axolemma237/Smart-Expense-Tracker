@@ -1,0 +1,47 @@
+# -----------------------
+# Python Essentials
+# -----------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# Logs and cache
+*.log
+.cache/
+*.tmp
+*.bak
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# Environment variables or credentials (if any)
+.env
+
+# Project specific
+/Data/*.csv
+!/Data/Expenses.csv   # <-- Keep our main CSV file tracked
+/Visuals/
