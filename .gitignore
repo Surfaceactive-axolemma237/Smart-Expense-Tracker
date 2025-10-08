@@ -45,3 +45,5 @@ desktop.ini
 /Data/*.csv
 !/Data/Expenses.csv   # <-- Keep our main CSV file tracked
 /Visuals/
+
+main1.txt
