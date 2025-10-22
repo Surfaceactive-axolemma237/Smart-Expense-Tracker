@@ -59,22 +59,22 @@ Ideal for beginners learning Python as well as for showcasing clean, professiona
 
 ## 📊 Project Flow (Overview)
 
- ---------------------------
++---------------------------+
 |   User selects an option  |
- ---------------------------
++---------------------------+
             |
             ▼
- ---------------------------
++---------------------------+
 | 1. Add Expense            |
 |  - Input data             |
 |  - Save to CSV file       |
- ---------------------------
++---------------------------+
 | 2. View Expenses          |
 |  - Read CSV file          |
 |  - Display in table form  |
- ---------------------------
++---------------------------+
 | 3. Exit                   |
- ---------------------------
++---------------------------+
 
 ## 🧩 Folder Structure
 
