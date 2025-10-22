@@ -194,10 +194,11 @@ Learner | Builder | Generative AI Enthusiast
 
 ----------------------------------------------------------------------------------------------------------
 
-# 🏁 Status
-
-• ✅ Phase 1: Project Setup & Planning – Completed
-• ✅ Phase 2: Core Architecture Design – Completed
-   - 📂 All code and documentation are in sync and working correctly.
-   - 🧱 Ready to move to Phase 3: Feature Enhancement & Analytics.
-• 🚀 Phase 3: Feature Enhancement & Analytics
+# 🚀 Current Project Status
+| Phase | Description | Status |
+|-------|--------------|:------:|
+| **1** | Core Expense Management | ✅ Completed |
+| **2** | Modularization + Testing Foundation | ✅ Completed |
+| **3** | Visualization & Analytics | ✅ Completed |
+| **4** | Integration & Finalization | ✅ Completed |
+| **5** | Future Enhancements | ⏳ Planned |
